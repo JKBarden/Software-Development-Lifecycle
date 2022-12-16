@@ -1,7 +1,7 @@
 # Software-Development-Lifecycle
-## CS-250 course taken at SNHU going over the Agile Method for project management.
+<sub> CS-250 course taken at SNHU going over the Agile Method for project management.
 
-### "essential questions” for the Computer Science program
+### "Essential questions” for the Computer Science program
 
 Q: How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
@@ -14,3 +14,5 @@ A: My initial development approach is the top down; I create the program with wh
 Q: What does it mean to be a good team member in software development? 
 
 A: In general, a good team member is teachable and gets along with everyone. The only difference for software development is a member that is self-sufficient, will actively try to assist other members and become more efficient in coding through their retrospective. The coding aspects as being organized and following agile method can be taught. 
+
+  <!-- John Barden - 12/16/2022 - Computer Science Student @ SNHU -->
